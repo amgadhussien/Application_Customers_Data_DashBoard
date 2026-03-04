@@ -40,3 +40,16 @@ The project aimed to visualize key customer insights, including:
 
 ## 🚀 Conclusion
 This project demonstrates the ability to perform end-to-end data preparation, transforming unusable raw data into actionable insights for business growth.
+
+---
+
+## 🔓 Usage & License
+Feel free to use this dataset for practice, analysis, or any other educational purposes. The data is open for everyone to explore and learn from.
+
+## 📧 Contact Me
+If you have any questions or want to discuss this project, feel free to reach out directly:
+
+* **WhatsApp:** [Message me on WhatsApp](https://wa.me/201553918594)
+* **Primary Email:** [amgadhussien.da@gmail.com](mailto:amgadhussien.da@gmail.com)
+* **Secondary Email:** [qwertr307@gmail.com](mailto:qwertr307@gmail.com)
+* **Phone:** [+20 155 391 8594](tel:+201553918594)
